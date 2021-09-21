@@ -7,7 +7,9 @@ Start Screen :
 
 
 Game : 
+
 ![image](https://user-images.githubusercontent.com/42503383/134103276-bbbb1e3b-4917-4981-bf05-17b1245476af.png)
+
 Will add additional functionality after a few days :) 
 
 Date : 20 Sept 2021
